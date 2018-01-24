@@ -1,4 +1,4 @@
 # landing
 
-EMX Care landing page.
+MEX Care landing page.
 
